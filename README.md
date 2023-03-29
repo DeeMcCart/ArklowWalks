@@ -6,28 +6,51 @@ Example Readme for Arklow Walks Project
 #Table of Contents:
 1. [About](#about)
 2. [Project Goals](#project-goals)
-3. [UX Design](#ux-design)
-  3.1 [Strategy](ux-strategy)
-  3.2 [Structure] (#ux-structure) 
-  3.3 [Scope](ux-scope) 
+3. [UX Design](#ux-design) 
+  3.1 [Strategy](#31-strategy)
+  3.2 [Scope](ux-scope) 
+  3.3 [Structure] (#ux-structure) 
   3.4 [Skeleton](ux-skeleton)
   3.5 [Surface](ux-surface)
 
-##Project Goals
-To produce a user-friendly, semi-interactive set of maps and information sheets for walks in the Arklow geographical area.
 
-##About
+## About
 This website highlights some of the walks available in the Arklow, Co. Wicklow area of Ireland.  It is designed for tourists (including First-time and Returning site visitors), and local people (typcially Returning site visitors).   
 The website is intended as a tourism aid, to raise awareness of the natural and urban landscape of Arklow, to encourage use of community walking routes, and to showcase some of the pleasant and interesting features within Arklow Town.  The provision of gallery images makes the user aware of the attractiveness and features of each walk.   
-Contact details for guided walks are also gathered for users who wish to participate.
 
 ![Responsive Mockup]
 
+## Project Goals
+To produce a user-friendly, informative website of walks in the Arklow geographical area.
+
 ## UX Design
-3.1 Strategy
+### 3.1 Strategy
+The aim is to increase the 'brand awareness' of Arklow as an active tourism destination.
+It it an offshoot of the Wicklow Tourism website.
+The audience is:
+a. Tourists visiting the Arklow region,  and who wish to explore the area on foot
+b. Arklow residents who wish to explore the area and familiarise themselves with local history
+Note that both these groups may have varying mobility capabilities, and therefore it is important to flag if certain routes are wheelchair/ pushchair friendly.
+c. Groups on school tours or day outings who are seeking guided walks 
+
+Existing walking guides include:
+https://www.alltrails.com/ireland/county-wicklow/arklow
+https://www.visitarklow.ie/nature-outdoors/walks
+
+Existing sites do not include the range of walks listed here, and also do not consistently include actual route maps and parking information.
+
+### 3.2 Scope
+
+### 3.3 Structure
+### 3.4 Skeleton
+### 3.5 Surface
+
+
+
 Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Contact details for guided walks are also gathered for users who wish to participate.
 
 ### Existing Features
 
