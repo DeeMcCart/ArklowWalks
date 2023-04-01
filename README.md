@@ -37,7 +37,8 @@ To produce a user-friendly, informative website of walks in the Arklow geographi
 * The target audience seeks assistance to choose an appropriate walk (terrain, distance, accessibility) for their needs
 * The target audience may have an interest in local history and wish to learn more via website links
 * The target audience wishes to know about teashops/ bathrooms en route
-
+* NB  The target audience are likely to commence using the site on desktop, but are likely to progress to small-screen use as will use this site when they are 'out and about' to locate the start of the walk relative to their current location, and possibly to cross reference photos against what they are witnessing on their own walk, and to identiy new photos which would add to the bank of knowledge about this walk.
+ 
 #### First-time User
 * Find out whats interesting about Arklow
 * Find out which walks have 
