@@ -26,19 +26,21 @@ To produce a user-friendly, informative website of walks in the Arklow geographi
 * As site owner I want to showcase Arklow Walks
 * As site owner I want to provide an attractive gallery of images which encourage outdoor pursuits in this locality
 * As site owner I want to raise awareness of local sightseeing items
-* As site owner I want to encourage awareness of, and traffic to, my sponsors who are: Arklow Tidy Towns, Arklow Municipal District, Wicklow Sports Partnership, Arklow Maritime Musemu, Arklow Historical Society 
 * As site owner I wish to promote responsible dog walking (doggie poop bins)
 * As site owner I wish to showcase local hospitality business - cafes and tea shops en route 
+* As site owner I wish to promote community engagement by encouraging users to leave reviews and photos of their walk own experience
+* As site owner I want to encourage awareness of community sponsors including: Arklow Tidy Towns, Arklow Municipal District, Wicklow Sports Partnership, Arklow Maritime Musemu, Arklow Historical Society 
 
 #### Target Audience
-* The target audience is visitors to, and residents within the Arklow area who wish to take recreational walks
+* The target audience includes visitors to, and residents of, Arklow who seek recreational walk information
 * The target audience includes recreational walkers, singly or in groups.
-* Family groups are a particular target audience particularly family groups, perhaps including people of mixed abilities (dog walkers?)
+* Family groups are a particular target audience, perhaps including mobility challenges - suitability for pushchairs/wheelchairs
+* Dog walkers?
 * The target audience seeks assistance to choose an appropriate walk (terrain, distance, accessibility) for their needs
 * The target audience may have an interest in local history and wish to learn more via website links
 * The target audience wishes to know about teashops/ bathrooms en route
 * NB  The target audience are likely to commence using the site on desktop, but are likely to progress to small-screen use as will use this site when they are 'out and about' to locate the start of the walk relative to their current location, and possibly to cross reference photos against what they are witnessing on their own walk, and to identiy new photos which would add to the bank of knowledge about this walk.
- 
+
 #### First-time User
 * Find out whats interesting about Arklow
 * Find out which walks have 
@@ -61,8 +63,10 @@ To produce a user-friendly, informative website of walks in the Arklow geographi
 
 ### Returning User
 * As a returning user I would like to be able to navigate the site easily and to 'drill into' selected walks
-* As a returning user
+* As a returning user I would like to be able to view photo gallery for individual walks
+* As a returning user I would like to locate the start of a walk relative to my own location
 * As a returning user I would like to have a facility to upload my own walk photos and add reviews/comments
+
 
 
 
