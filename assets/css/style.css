@@ -67,3 +67,23 @@ h1, h2 {
     top: 0;
     position:absolute;
 }
+
+/* Footer styling */
+footer {
+    height: 150px;
+}
+
+.partners {
+    text-align: center;
+}
+
+.partners li {
+    display: inline;
+}
+
+.partners i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a
+}

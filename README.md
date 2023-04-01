@@ -88,7 +88,8 @@ https://www.visitarklow.ie/nature-outdoors/walks
 
 Existing sites do not include the range of walks listed here, and also do not consistently include actual route maps and parking information.
 
-
+## Fonts Chosen
+Libre Franklin and Libre Baskerville are chosen because they are readable on large screens or smaller mobile devices.  This font is recommended for sites that may be content-heavy but which are regarded as fun friendly and approachable/inclusive.
 
 
 ## Features 
