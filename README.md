@@ -1,17 +1,14 @@
-Example Readme for Arklow Walks Project 
-
 # Arklow Walks Project 
 (Developer:  Deirdre mcCarthy)
 
 #Table of Contents:
 1. [About](#about)
 2. [Project Goals](#project-goals)
+[Site Owner Goals](#site-owner-goals)
+[User Goals](#user-goals)
 3. [UX Design](#ux-design) 
-  3.1 [Strategy](#31-strategy)
-  3.2 [Scope](ux-scope) 
-  3.3 [Structure] (#ux-structure) 
-  3.4 [Skeleton](ux-skeleton)
-  3.5 [Surface](ux-surface)
+i. [Strategy - Target Audience](#target-audience)
+ii. 
 
 
 ## About
@@ -19,12 +16,59 @@ This website highlights some of the walks available in the Arklow, Co. Wicklow a
 The website is intended as a tourism aid, to raise awareness of the natural and urban landscape of Arklow, to encourage use of community walking routes, and to showcase some of the pleasant and interesting features within Arklow Town.  The provision of gallery images makes the user aware of the attractiveness and features of each walk.   
 
 ![Responsive Mockup]
+Live webpage link
 
 ## Project Goals
 To produce a user-friendly, informative website of walks in the Arklow geographical area.
 
-## UX Design
-### 3.1 Strategy
+### User Goals
+#### Site owner Goals
+* As site owner I want to showcase Arklow Walks
+* As site owner I want to provide an attractive gallery of images which encourage outdoor pursuits in this locality
+* As site owner I want to raise awareness of local sightseeing items
+* As site owner I want to encourage awareness of, and traffic to, my sponsors who are: Arklow Tidy Towns, Arklow Municipal District, Wicklow Sports Partnership, Arklow Maritime Musemu, Arklow Historical Society 
+* As site owner I wish to promote responsible dog walking (doggie poop bins)
+* As site owner I wish to showcase local hospitality business - cafes and tea shops en route 
+
+#### Target Audience
+* The target audience is visitors to, and residents within the Arklow area who wish to take recreational walks
+* The target audience includes recreational walkers, singly or in groups.
+* Family groups are a particular target audience particularly family groups, perhaps including people of mixed abilities (dog walkers?)
+* The target audience seeks assistance to choose an appropriate walk (terrain, distance, accessibility) for their needs
+* The target audience may have an interest in local history and wish to learn more via website links
+* The target audience wishes to know about teashops/ bathrooms en route
+
+#### First-time User
+* Find out whats interesting about Arklow
+* Find out which walks have 
+#### Returning User
+
+### User Stories
+
+#### Site Owner
+* As site owner I want to list five (or more) key walks inthe Arklow area
+* As site owner I want to provide categories of walks to allow users to choose the most appropriate
+* As site owner I want to provide a google maps link to the start of each of the walks
+
+#### First-time User
+* As a first-time user I want to see what walks are available by the geographic area
+* As a first-time user I want to see how long a walk is, and whether it is suitable for pushchairs
+* As a first-time user I want to see attractive pictures (to motivate me and others to select a particular walk)
+* As a first-time user I would like to know what rest/food facilities are available on the route
+* As a first-time user I would like to understand how to reach the start point from my current location   
+* As a first time user I would like to be able to navigate the site and quickly learn its functionality
+
+### Returning User
+* As a returning user I would like to be able to navigate the site easily and to 'drill into' selected walks
+* As a returning user
+* As a returning user I would like to have a facility to upload my own walk photos and add reviews/comments
+
+
+
+
+
+UX Design
+### Strategy
 The aim is to increase the 'brand awareness' of Arklow as an active tourism destination.
 It it an offshoot of the Wicklow Tourism website.
 The audience is:
@@ -39,15 +83,10 @@ https://www.visitarklow.ie/nature-outdoors/walks
 
 Existing sites do not include the range of walks listed here, and also do not consistently include actual route maps and parking information.
 
-### 3.2 Scope
-
-### 3.3 Structure
-### 3.4 Skeleton
-### 3.5 Surface
 
 
 
-Features 
+## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 Contact details for guided walks are also gathered for users who wish to participate.
