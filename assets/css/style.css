@@ -17,10 +17,46 @@ h1, h2 {
     color: #252525;
 }
 
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+}
+
+/* navigation links */
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu,
+#logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+    color: blue;
+}
 
 /* Include styling for google map to pop it into the middle of its container and make it responsive*/
 .google-map {
-    padding-bottom:50%;
+    padding-bottom:70%;
     position:relative;
 }
 
