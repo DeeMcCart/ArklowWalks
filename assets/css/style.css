@@ -2,13 +2,18 @@
     margin: 0;
     padding: 0;
     border: 0;
+    box-sizing: border-box;
 }
 
 /* body style */
 body{
     font-family: 'Libre Baskerville', serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #333;
+    line-height: 1.6;
+}
+
+ul {list-style-type:none;
 }
 
 /* heading and logo styles */
@@ -16,6 +21,8 @@ h1, h2 {
     font-family: 'Libre Franklin', sans-serif;
     color: #252525;
 }
+
+
 
 #logo {
     float: left;
