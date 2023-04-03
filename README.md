@@ -1,7 +1,7 @@
 # Arklow Walks Project 
 (Developer:  Deirdre McCarthy)
 
-#Table of Contents:
+# Table of Contents:
 1. [About](#about)
 2. [Project Goals: ](#project-goals)
 2.1 [Strategy; ](#strategy) 
@@ -26,9 +26,17 @@
 7. [Testing](#testing)
 7.1 [Testing against Requirements](#rtm-proof)
 7.2 [Validator testing](#validator-testing)
-7.3 [Unfixed Bugs](#unfixed-bugs)
-8. [Credits](#credits)
-9. [Acknowledgements](#acknowledgements)
+7.3 [Manual Testing](#manual-testing)
+7.4 [Multi-device Testing](#multi-device-testing)
+7.5 [Multi-browser Testing](#multi-browser-testing)
+7.6 [Unfixed Bugs](#unfixed-bugs)
+8. [Accessibility](#accessibility)
+9. [Performance](#performance)
+10. [Deployment](#deployment)
+11. [Credits](#credits)
+11.1 [Content](#content)
+11.2 [Media](#media)
+11.3 [Acknowledgements](#acknowledgements)
 
 ## About
 This website highlights some of the walks available in the Arklow, Co. Wicklow area of Ireland.  It is designed for tourists (including First-time and Returning site visitors), and local people (typcially Returning site visitors).   
@@ -48,11 +56,11 @@ b. Arklow residents who wish to explore the area and familiarise themselves with
 Note that both these groups may have varying mobility capabilities, and therefore it is important to flag if certain routes are wheelchair/ pushchair friendly.
 c. Groups on school tours or day outings who are seeking guided walks 
 
-Existing walking guides include:
-https://www.alltrails.com/ireland/county-wicklow/arklow
+Existing walking guides include:<br>
+https://www.alltrails.com/ireland/county-wicklow/arklow <br>
 https://www.visitarklow.ie/nature-outdoors/walks
 
-The existing sites do not include the range of walks available, and don't consistently include actual route maps and parking information.
+The existing sites do not include the full range of walks available, and don't consistently include actual route maps and parking information.
 
 ### Target Audience
 * The target audience includes visitors to, and residents of, Arklow who seek recreational walk information
@@ -202,7 +210,7 @@ In addition, you may also use this section to discuss plans for additional featu
 Include suitability of various walks for dogs?
 Include details to access guided walks and walking/running groups in the area?
 Newsletter signup?
-Review moderation
+Moderation of user feedback - text and photos; and ability to upload this into the site content
 
 ### RTM
 Requirements traceability matrix showing link between user stories and implemented/ future-release features
@@ -231,21 +239,35 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### RTM-proof
 Requirements traceability matrix showing link between requirements and features
-Illustrate proofs
+Provide proofs of successful testing of each user story
 
 ### Validator Testing 
-
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-### Unfixed Bugs
+### Manual Testing
+To be completed...
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+### Multi-device Testing
+To be completed...
+
+### Multi-browser Testing
+To be completed...
+
+### Unfixed Bugs
+To be completed... mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+
+## Accessibility
+To be completed... e.g. using WAVE WebAIM accessibility evaluation tool.
+All pages pass with X errors
+(comment here on any errors encountered)
+
+## Performance
+To be completed...
 
 ## Deployment
-
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
