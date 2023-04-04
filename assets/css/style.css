@@ -88,7 +88,7 @@ img {
 body {
     display: grid;
     grid-template-columns: 20% auto 20%;
-    grid-template-rows: 60px auto 60px;
+    grid-template-rows: 60px auto auto 60px;
     grid-template-areas: "hd hd hd"
         "lhside main rhside"
         "foot foot foot";
@@ -98,14 +98,24 @@ body {
     grid-area: lhside;
 }
 
+.main {
+    grid-area: main;
+}
+
 .main-right {
     grid-area: rhside;
 }
+
+/* Flexbox styling for map and walk IDs to appear in centre of screen */
+.mainmap {
+    grid-area: main;
+}
+
+
 /* Flexbox styling for walk ids to display around edges of container */
 .walk-id {
-    grid-area: main;
- /*   height: 50%;
-    width: 50%; */
+ height: 50%;
+    width: 50%; 
     border: 1px solid blue;
     padding: 10%;
     color: red;
@@ -126,8 +136,8 @@ body {
 }
 
 .google-map iframe {
-    height: 50%;
-    width: 50%;
+    height: 80%;
+    width: 80%;
     left: 0;
     top: 0;
     position: absolute;
