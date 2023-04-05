@@ -87,7 +87,7 @@ img {
 /* body styling grid format */
 body {
     display: grid;
-    grid-template-columns: 30% auto 30%;
+    grid-template-columns: 20% auto 20%;
     grid-template-rows: 50px auto 50px;
     grid-template-areas: "hd hd hd"
         "lhside main rhside"
@@ -96,58 +96,71 @@ body {
 
 .main-left {
     grid-area: lhside;
-    background-color:beige
+    background-color: beige
 }
 
 .main {
     grid-area: main;
-    background-color:#047aed
+    background-color: #047aed
 }
 
 .main-right {
     grid-area: rhside;
-    background-color:aquamarine
+    background-color: aquamarine
 }
 
 /* Flexbox styling for map and walk IDs to appear in centre of screen */
 .mainmap {
     grid-area: main;
+    position: relative;
+    z-index: 1;
 }
 
 
 /* Flexbox styling for walk ids to display around edges of container */
 .walk-id {
- height: 50%;
-    width: 50%; 
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
     border: 3px dotted blue;
-    background-color:transparent;
-    padding: 10px;
+    background-color: transparent;
+    padding: 0;
     color: red;
-    font-size: 25px;
+    font-size: 80px;
     font-weight: 900;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap-reverse;
-/*    justify-content: center; */
- /*   align-content: center; */
+    justify-content: center;
+     align-content: space-between; 
 }
+
+/* Change display when hover over individual walks 
+.walk-id a:hover {
+    font-size: 90px;
+    } */
 
 /* Include specific styling for google map to pop it into the middle of its container and make it responsive*/
 .google-map {
     grid-area: main;
-    padding-bottom: 70%; 
+    padding-bottom: 70%;
     position: relative;
 }
 
 .google-map iframe {
-    height: 90%;
-    width: 90%;
-    left: 0;
-    top: 0;
+    height: 80%;
+    width: 80%;
+    left: 10%;
+    top: 10%;
+    margin-right:10%;
     position: absolute;
 }
 
-.bk-map {background-image:url('https://www.google.com/maps/d/u/0/edit?mid=1jr5ZS0rgo1TDtELYrhRuqfZC8o3FQ54&usp=sharing')
+.bk-map {
+    background-image: url('https://www.google.com/maps/d/u/0/edit?mid=1jr5ZS0rgo1TDtELYrhRuqfZC8o3FQ54&usp=sharing')
 }
 
 /* Footer styling */
